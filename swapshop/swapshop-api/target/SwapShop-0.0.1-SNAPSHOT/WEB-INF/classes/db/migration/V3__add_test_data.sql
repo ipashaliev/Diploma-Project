@@ -1,0 +1,1 @@
+INSERT IGNORE INTO swap_shop_db.posts (title, body, active) VALUES('First test post', 'Body text of the first test post', 1);
